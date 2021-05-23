@@ -21,7 +21,7 @@ My Skills
    💬 Ask me about C,C++, Python, Java, HTML,CSS<br>
     📫 How to reach me: keerthanapravallika@gmail.com 
 </ul>
-<h2 >Git Hub Stats</h2>
+<h2 >GitHub Stats</h2>
 
 <p align="center">
 
