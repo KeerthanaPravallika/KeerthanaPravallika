@@ -21,7 +21,13 @@ My Skills
    💬 Ask me about C,C++, Python, Java, HTML,CSS<br>
     📫 How to reach me: keerthanapravallika@gmail.com 
 </ul>
+<h2 >Git Hub Stats</h2>
 
+<p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaPravallika&layout=compact&show_icons=true&theme=radical)](https://github.com/Komal-99/github-readme-stats)
+
+</p>
 
 
 <!--
