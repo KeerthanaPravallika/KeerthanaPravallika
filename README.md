@@ -1,4 +1,4 @@
-### Hi there 👋 This is Keerthana Pravallika
+## Hi there 👋 This is Keerthana Pravallika
 | Tech-Enthusiast | Passionate Learner | Web development enthusiast |
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keerthana-pravallika-samudrala)
