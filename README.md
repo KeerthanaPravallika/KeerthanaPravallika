@@ -1,9 +1,6 @@
 ## Hi there 👋 This is Keerthana Pravallika
 | Tech-Enthusiast | Passionate Learner | Web development enthusiast |
 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keerthana-pravallika-samudrala)
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Keerthanap21)
-
 My Skills 
 <p align="left">
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
@@ -21,6 +18,12 @@ My Skills
    💬 Ask me about C,C++, Python, Java, HTML,CSS<br>
     📫 How to reach me: keerthanapravallika@gmail.com 
 </ul>
+
+<h3>Let's Connect !</h3>
+
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keerthana-pravallika-samudrala)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Keerthanap21)
+
 <h2 >GitHub Stats</h2>
 
 <p align="center">
