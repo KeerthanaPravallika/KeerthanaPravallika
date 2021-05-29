@@ -34,6 +34,7 @@
 
 <p align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KeerthanaPravallika&show_icons=true&locale=en" alt="KeerthanaPravallika" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KeerthanaPravallika&" alt="KeerthanaPravallika" /></p> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaPravallika&layout=compact&show_icons=true&theme=radical)](https://github.com/Komal-99/github-readme-stats)
 
