@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, This is  Keerthana Pravallika </h1>
 <h4 align="center">| Tech-Enthusiast | Passionate Learner | Web development enthusiast |</h4><br>
 
-<h4>Languages and Tools I'm familiar with </h4>
+<h4>Languages and tools I'm familiar with </h4>
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
@@ -20,6 +20,7 @@
 <ul style="list-style-type=none;">
   👩‍💻 I am a passionate learner and I like exploring new things<br>
   ⭐ Earned Gold badges in Python, Java, C++, Problem Solving on Hackerrank<br>
+ 🔭 I’m currently working on front end projects
   🌱 I’m currently learning Django, DSA<br>
    💬 Ask me about C,C++, Python, Java, HTML,CSS<br>
     📫 How to reach me: keerthanapravallika@gmail.com 
