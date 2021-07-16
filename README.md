@@ -21,7 +21,7 @@
   👩‍💻 I am a passionate learner and I like exploring new things<br>
   ⭐ Earned Gold badges in Python, Java, C++, Problem Solving on Hackerrank<br>
  🔭 I’m currently working on front end projects<br>
-  🌱 I’m currently learning Django, DSA<br>
+  🌱 I’m currently learning Django,React, DSA<br>
    💬 Ask me about C,C++, Python, Java, HTML,CSS<br>
     📫 How to reach me: keerthanapravallika@gmail.com 
 </ul>
