@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Keerthana Pravallika</h1>
 <h3 align="center">Technophile | Passionate Learner | Web development enthusiast</h3><br /><br />
 
-<img align="right" src="https://image.freepik.com/free-vector/girl-writing-journal-diary_74855-7408.jpg" width="350" height="auto"/>
+<img align="right" src="https://image.freepik.com/free-vector/girl-writing-journal-diary_74855-7408.jpg" width="300" height="auto"/>
 
 🔭 I’m currently working on **Front End projects**
 
