@@ -10,11 +10,11 @@
 
 🌱 I’m currently learning **Django, DSA**<br >
 
-👩‍💻  I am a passionate learner and I like exploring new things<br >
+💻  I am a passionate learner and I like exploring new things<br >
 
 ⭐ Earned Gold badges in Python, Java, C++, Problem Solving , SQL on Hackerrank
 
-👨‍💻 All of my projects are available in my [Github Profile](https://github.com/KeerthanaPravallika?tab=repositories)
+👩‍💻 All of my projects are available in my [Github Profile](https://github.com/KeerthanaPravallika?tab=repositories)
 
 💬 Ask me about **C,C++,Java, Python, HTML,CSS**
 
