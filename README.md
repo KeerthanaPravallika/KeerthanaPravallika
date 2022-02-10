@@ -6,7 +6,7 @@
 
 <img align="right" src="https://image.freepik.com/free-vector/girl-writing-journal-diary_74855-7408.jpg" width="300" height="auto"/>
 
-🔭 I’m currently working on **Front End projects**
+🔭 I’m currently working on **Full Stack projects**
 
 🌱 I’m currently learning **Django, DSA**<br >
 
