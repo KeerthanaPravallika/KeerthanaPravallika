@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on **Full Stack projects**
 
-🌱 I’m currently learning **Django, DSA**<br >
+🌱 I’m currently learning **Django, React**<br >
 
 💻  I am a passionate learner and I like exploring new things<br >
 
