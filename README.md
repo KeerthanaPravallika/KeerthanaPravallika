@@ -6,9 +6,9 @@
 
 <img align="right" src="https://image.freepik.com/free-vector/girl-writing-journal-diary_74855-7408.jpg" width="300" height="auto"/>
 
-🔭 I’m currently working on **Big Data projects**
+🔭 I’m currently working on **backend projects**
 
-🌱 I’m currently learning **Big Data technologies**<br >
+🌱 I’m currently learning **Node and Express JS**<br >
 
 💻  I am a passionate learner and I like exploring new things<br >
 
